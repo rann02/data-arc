@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color: #fff;
+}
+
+.login {
+    width: 35%;
+    background-color: #0C939B;
+    margin: 25% auto;
+    padding: 4rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.l-login {
+    text-align: center;
+    font-size: 2rem;
+}
+
+.kolom {
+    display: flex;
+    flex-direction: column;
+    margin: 3px 0;
+}
+
+.l-butt {
+    height: 1.8rem;
+}
+
+.label1 {
+    font-size: .8rem;
+}
+
+.forget { 
+    text-align: right;
+}
+
+.butt2 {
+    height: 1.8rem;
+    color: black;
+    font-size: 1.1rem;
+    width: 5.5rem;
+    margin: 10px auto 5px auto;
+    font-weight: 700;
+}
+
+.l-signin {
+    text-align: center;
+}
+
+a:hover {
+    color: blue;
+}
